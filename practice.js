@@ -63,7 +63,7 @@ console.log(array[0].key2)
 
 // write a function to increase age
 function userBirthday(user) {
-    // user.age = user.age + 1
+    // user.age = user.age + 1 
     user.age += 1
     return user
 }
@@ -74,9 +74,9 @@ function userBirthday(user) {
 
 
 // this is just javscript 
-// const button = document.getElementById("myButton")
+const button = document.getElementById("myButton")
 
-// button.addEventListener("click", userBirthday(userProfile1))
+button.addEventListener("click", userBirthday(userProfile1))
 
 // this is jquery
 // $("myButton").click(function () {
