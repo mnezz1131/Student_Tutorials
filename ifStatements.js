@@ -14,4 +14,6 @@ function checkMood() {
 checkMood()
 
 
-//This is a new comment!
+//This is a new comment!g
+
+//This my second comment working on new branch
